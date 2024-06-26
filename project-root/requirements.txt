@@ -1,6 +1,0 @@
-torch
-torchvision
-torchaudio
-flask
-transformers
-azure-storage-blob
